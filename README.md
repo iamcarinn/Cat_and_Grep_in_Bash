@@ -1,6 +1,6 @@
 # Cat_and_Grep_in_Bash
-* Educational project "Schools 21".<br>
 **Development of Bash text utilities: cat & grep in C programming languages.**
+Educational project "Schools 21".<br>
 
 ____
 
