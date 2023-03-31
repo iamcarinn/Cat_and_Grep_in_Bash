@@ -1,5 +1,5 @@
 # Cat_and_Grep_in_Bash
-##Development of Bash text utilities: cat & grep in C programming languages.
+## Development of Bash text utilities: cat & grep in C programming languages.
 * Educational project "Schools 21".
 ____
 
