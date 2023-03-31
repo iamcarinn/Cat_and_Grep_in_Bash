@@ -5,7 +5,7 @@ Educational project "Schools 21".<br>
 ____
 
 ### cat Options
-**TEMPLATE:** `cat [OPTION] [FILE]`
+`cat [OPTION] [FILE]`
   
 | No. | Options | Description | Status |
 | ------ | ------ | ------ | ------ |
@@ -17,7 +17,7 @@ ____
 
 
 ### grep Options
-**TEMPLATE:** `grep [OPTION] [TEMPLATE] [FILE]`
+`grep [OPTION] [TEMPLATE] [FILE]`
 
 | No. | Options | Description | Status |
 | ------ | ------ | ------ | ------ |
