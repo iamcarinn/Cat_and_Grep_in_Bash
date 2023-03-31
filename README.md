@@ -31,16 +31,3 @@ ____
 | 8 | -s | Suppress error messages about nonexistent or unreadable files. | ✅     |
 | 9 | -f file | Take regexes from a file. | ✅     |
 | 10 | -o | Output the matched parts of a matching line. | ✅     |
-
-## Usage
-
-1. Clone this repository via
-   - SSH `git@github.com:rynortheast/21-simple-bash-utils.git` or
-   - HTTPS `https://github.com/rynortheast/21-simple-bash-utils.git`
-2. Change code base if necessary
-3. Working with s21_cat:
-   - Run `make s21_cat` to build programm
-   - Run `make test` to run main tests
-4. Working with s21_grep:
-   - Run `make s21_grep` to build programm
-   - Run `make test` to run main tests
